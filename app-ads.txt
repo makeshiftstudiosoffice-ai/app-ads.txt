@@ -1,4 +1,4 @@
-start.io,124029897, DIRECT
+start.io, 124029897, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 pubnative.net, 1008289, RESELLER, d641df8625486a7b
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
@@ -126,4 +126,4 @@ Media.net, 8CU9B72O6, RESELLER
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 apexflowsdk.com, 1083, RESELLER
 rubiconproject.com, 28075, RESELLER, 0bfd66d529a55807
-video.unrulymedia.com, 817753694, RESELLER 
+video.unrulymedia.com, 817753694, RESELLER
